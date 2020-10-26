@@ -99,8 +99,8 @@ class HomeController extends CI_Controller {
                 'protocol' => 'smtp',
                 'smtp_host' => 'ssl://smtp.googlemail.com',
                 'smtp_port' => 465,
-                'smtp_user' => 'YOUR EMAIL ADDRESS',
-                'smtp_pass' => 'YOUR EMAIL ADDRESS PASSWORD', // Go to your gmail account -> go to security tab -> allow access to less secure apps
+                'smtp_user' => 'sachiniabeysinghe7@gmail.com',
+                'smtp_pass' => 'Sachini123', // Go to your gmail account -> go to security tab -> allow access to less secure apps
                 'mailtype' => 'html',
                 'charset' => 'iso-8859-1',
                 'wordwrap' => TRUE
