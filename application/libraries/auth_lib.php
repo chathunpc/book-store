@@ -6,7 +6,7 @@
  * Time: 9:56 AM
  */
 
-class auth_lib {
+class Auth_lib {
 
     function __construct()
     {
